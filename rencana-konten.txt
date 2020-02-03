@@ -1,4 +1,0 @@
-Salam kenal, nama saya Nugi dari Jogjakarta
-
-Rencana:
-- Ingin membuat website menggunakan framework Laravel
