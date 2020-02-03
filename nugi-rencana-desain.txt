@@ -1,3 +1,4 @@
 Rencana Desain
-=> Desain Web
-=> Desain Android
+=> Desain Web = CSS
+=> Desain Android = XML
+=> Desain iOS
