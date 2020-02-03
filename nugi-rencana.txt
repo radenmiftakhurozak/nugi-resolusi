@@ -1,0 +1,4 @@
+Rencana Nugi
+
+- Belajar PHP
+- Belajar MySql
